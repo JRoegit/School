@@ -1,0 +1,11 @@
+s2 = ((~T&R)>>P)
+
+P   T   R   ((~T&R)>>P) 
+T   T   T       T      
+T   T   F       T
+T   F   T       T
+T   F   F       T
+F   T   T       T
+F   T   F       T
+F   F   T       F 
+F   F   F       T 

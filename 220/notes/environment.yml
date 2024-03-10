@@ -1,0 +1,6 @@
+name: CISC220
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bash_kernel
