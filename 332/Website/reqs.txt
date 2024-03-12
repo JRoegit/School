@@ -1,0 +1,23 @@
+List of property IDs w names of owners 
+and names of managers
+(3 col table :
+ID | Owners | Managers )
+
+Allow Rental groups to update preferences
+(some sort of form?)
+
+Show list of rental gorups, allow them to 
+choose one and see the names of students
+included + preferences
+(Radio selection? w submit button 
+will look bad but whatever,
+creates a table with x columns
+Group ID | Student names | ... | Preferences | ... |)
+
+Table for average monthly rent for houses,
+apartments, and rooms
+(three col table
+Avg house | Avg apartment | Avg room )
+
+needs to use PHP PDOs only raw html and css
+no frameworks or packages
